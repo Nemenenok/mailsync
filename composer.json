@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cybercog/youtrack-rest-php": "^6.1",
+        "ddeboer/imap": "^1.8"
+    }
+}
